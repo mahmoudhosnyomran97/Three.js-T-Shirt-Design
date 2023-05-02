@@ -2,7 +2,6 @@
   "name": "server",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
@@ -18,5 +17,7 @@
     "mongoose": "^7.1.0",
     "nodemon": "^2.0.22",
     "openai": "^3.2.1"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
